@@ -1,15 +1,16 @@
 {
-  "name": "open-sans-fontface",
+  "name": "open-sans",
   "main": [
     "./open-sans.css",
     "./fonts/**/*"
   ],
-  "homepage": "https://github.com/FontFaceKit/open-sans",
+  "homepage": "https://github.com/sorenson/open-sans",
   "authors": [
+    "Brandon Buttars <bbuttars@sorensonemedia.com>",
     "Gustavo Henke <gustavo@injoin.com.br>",
     "Martin Domke <martin.domke@gateprotect.com>"
   ],
-  "description": "The Open Sans fontface",
+  "description": "The Open Sans fontface with only woff",
   "keywords": [
     "font"
   ],

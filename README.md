@@ -1,17 +1,14 @@
-# Open Sans @font-face kit
+# Open Sans @font-face kit (woff only)
 
-I split the SASS file, so the developer can decide which fonts and styles she or he really needs.
+This is forked from FontFaceKit.  We removed all the fonts except woff and woff 2.  All modern browsers support woff and some woff2.  Just removed the bloat from the bower install of all the fonts we weren't using.
 
 Installable via [Bower](http://twitter.github.com/bower/):
+
 ```
-bower install open-sans-fontface
+bower install git@github.com:sorenson/open-sans.git
 ```
 
 ## Demo
-__Our repository:__ [http://fontfacekit.github.com/open-sans](http://fontfacekit.github.com/open-sans)
+__FontFaceKit's repository:__ [http://fontfacekit.github.com/open-sans](http://fontfacekit.github.com/open-sans)
 
 __Google Web Fonts:__ [http://www.google.com/fonts/specimen/Open+Sans](http://www.google.com/fonts/specimen/Open+Sans)
-
-
-## Maintain your own font-face in FontFaceKit
-Contact @gustavohenke if you want to maintain your own font-face in this repository.

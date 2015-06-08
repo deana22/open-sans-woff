@@ -1,10 +1,10 @@
 {
-  "name": "open-sans",
+  "name": "open-sans-woff",
   "main": [
     "./open-sans.css",
     "./fonts/**/*"
   ],
-  "homepage": "https://github.com/sorenson/open-sans",
+  "homepage": "https://github.com/sorenson/open-sans-woff",
   "authors": [
     "Brandon Buttars <bbuttars@sorensonemedia.com>",
     "Gustavo Henke <gustavo@injoin.com.br>",

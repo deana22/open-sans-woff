@@ -5,10 +5,12 @@ This is forked from FontFaceKit.  We removed all the fonts except woff and woff 
 Installable via [Bower](http://twitter.github.com/bower/):
 
 ```
-bower install git@github.com:sorenson/open-sans.git
+bower install git@github.com:sorenson/open-sans-woff.git
 ```
 
 ## Demo
+__Sorenson repository:__ [http://sorenson.github.io/open-sans-woff](http://sorenson.github.io/open-sans-woff)
+
 __FontFaceKit's repository:__ [http://fontfacekit.github.com/open-sans](http://fontfacekit.github.com/open-sans)
 
 __Google Web Fonts:__ [http://www.google.com/fonts/specimen/Open+Sans](http://www.google.com/fonts/specimen/Open+Sans)

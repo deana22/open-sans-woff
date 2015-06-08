@@ -1,8 +1,8 @@
 {
-  "name": "open-sans",
+  "name": "open-sans-woff",
   "version": "1.0.0",
   "main": "./open-sans.css",
-  "homepage": "https://github.com/sorenson/open-sans",
+  "homepage": "https://github.com/sorenson/open-sans-woff",
   "authors": [
     "Brandon Buttars <bbuttars@sorensonmedia.com>",
     "Gustavo Henke <gustavo@injoin.com.br>",
@@ -14,7 +14,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sorenson/open-sans"
+    "url": "https://github.com/sorenson/open-sans-woff"
   },
   "license": "Apache License version 2.0",
   "ignore": [
